@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-📫 [as15840@nyu.edu ](as15840@nyu.edu) / [arkns1996@gmail.com](arkns1996@gmail.com) | [My website 🕸️](www.ansidd.github.io) | [LinkedIn](www.linkedin.com/in/arjunns)
+📫 [as15840@nyu.edu ](as15840@nyu.edu) / [arkns1996@gmail.com](arkns1996@gmail.com) | [My website 🕸️](https://www.ansidd.github.io) | [LinkedIn](https://www.linkedin.com/in/arjunns)
 
 ### What I am upto!👨🏻‍🔧   
 I'm currently obsessed with the possibilities that Neural Networks are bringing to the world. How cool is it to generate your own art, especially when you wish you knew how to draw? Really cool is the right answer! Ask me about how I am using Generative Adversarial Neural Networks to produce paisleys and birds!
