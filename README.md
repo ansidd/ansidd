@@ -1,4 +1,4 @@
-## Yello! 🙋🏻
+# Yello! 🙋🏻
 
 Welcome to my GitHub!
 
